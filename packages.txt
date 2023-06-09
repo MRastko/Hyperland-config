@@ -1,0 +1,14 @@
+mako
+xdg-desktop-portal-hyprland
+polkit-kde-agent
+	exec-once=/usr/lib/polkit-kde-authentication-agent-1
+
+network-manager-applet
+qt6-wayland
+
+
+
+yay
+	waybar-hyprland
+
+
